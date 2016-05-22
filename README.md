@@ -1,5 +1,5 @@
 # Movies-Page
-Project 3 of Udacity' Intro to Programming Nanodegree
+Project 3 of Udacity's Intro to Programming Nanodegree
 
 <b>Create a Movies Website</b><br>
 <i>You will write code to store a list of your favorite movies, including box art imagery and a movie trailer URL. 
